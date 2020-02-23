@@ -15,6 +15,4 @@ Tutorials used (among many others):
 - https://github.com/getify/You-Dont-Know-JS
 - https://www.andreasreiterer.at/connect-react-app-rest-api/
 
-x-special/nautilus-clipboard
-copy
-file:///home/amiwill/Images/Capture%20d%E2%80%99%C3%A9cran%20du%202020-02-23%2017-13-12.png
+![Capture d’écran du 2020-02-23 17-13-12](https://user-images.githubusercontent.com/34792146/75115613-75b70800-5660-11ea-9c67-1e8de3676fc1.png)
